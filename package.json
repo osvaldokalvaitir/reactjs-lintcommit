@@ -3,12 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
-  "scripts": {
-    "commit": "git-cz"
-  },
   "husky": {
     "hooks": {
-      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS"
+      "commit-msg": "commitlint -E HUSKY_GIT_PARAMS",
+      "@comment prepare-commit-msg": "No Windows teve que fazer cmd pois não funciona colocar o código: exec < /dev/tty && git cz --hook || true",
+      "prepare-commit-msg": "prepare-commit-msg"
     }
   },
   "devDependencies": {

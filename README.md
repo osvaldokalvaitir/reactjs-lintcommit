@@ -1,47 +1,56 @@
-# ReactJS - Lintcommit
+<h1 align="center">
+    <img src="/.github/assets/logo.png"
+    width="200px"
+    alt="Logo" />
+</h1>
 
-[![GitHub](https://img.shields.io/github/license/mashape/apistatus.svg)](https://github.com/osvaldokalvaitir/reactjs-lintcommit/blob/master/LICENSE)
-![](https://img.shields.io/github/package-json/v/osvaldokalvaitir/reactjs-lintcommit.svg)
-![](https://img.shields.io/github/last-commit/osvaldokalvaitir/reactjs-lintcommit.svg?color=red)
-![](https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-lintcommit.svg?color=yellow)
-![](https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-lintcommit.svg?color=lightgrey)
-![](https://img.shields.io/github/languages/code-size/osvaldokalvaitir/reactjs-lintcommit.svg)
-![](https://img.shields.io/github/repo-size/osvaldokalvaitir/reactjs-lintcommit.svg?color=blueviolet)
-[![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/)
-![Open Source Love svg1](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)
+<h3 align="center">
+  ReactJS - Lintcommit
+</h3>
 
-Aplicação Lintcommit usando Commitlint, Config-conventional, commitizen e Husky.
+<p align="center">
+  :dog: Lintcommit Application using Commitlint, Config-conventional, commitizen and Husky
+</p>
 
-## Índice
+<p align="center">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/osvaldokalvaitir/reactjs-lintcommit.svg?color=00A83A">
 
-- [Desenvolvimento](#desenvolvimento)
+  <img alt="GitHub language top" src="https://img.shields.io/github/languages/top/osvaldokalvaitir/reactjs-lintcommit.svg?color=00A83A">
 
-  - [Configuração do Ambiente](#configuração-do-ambiente)
+  <a href="https://kalvaitir.com/">
+    <img alt="Made by Kalvaitir" src="https://img.shields.io/badge/made%20by-Kalvaitir-00A83A">
+  </a>
 
-  - [Instalação do Projeto](#instalação-do-projeto)
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-00A83A">
+</p>
 
-- [Utilizados no Projeto](#utilizados-no-projeto)
+<p align="center">
+  <a href="#wrench-install-and-run">Install and run</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;<a href="#memo-license">License</a>
+</p>
 
-  - [Bibliotecas](#bibliotecas)
+## :wrench: Install and run
 
-## Desenvolvimento
+Open terminal:
 
-### Configuração do Ambiente
+```sh
+# Clone this repo
+git clone https://github.com/osvaldokalvaitir/reactjs-lintcommit
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/README.md) e siga `Configuração de Ambiente`.
+# Entry in folder
+cd reactjs-lintcommit
 
-### Instalação do Projeto
+# Install deps with npm or yarn
+npm install | yarn
 
-Clique [aqui](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/nodejs.md) e siga `Instalação de Projeto`.
+# Make a commit
+```
 
-## Utilizados no Projeto
+## :memo: License
 
-### Bibliotecas
+This project is under the MIT license. See [LICENSE](/LICENSE) for more information.
 
-- [@commitlint/cli](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@commitlint-cli.md)
+---
 
-- [@commitlint/config-conventional](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/@commitlint-config-conventional.md)
-
-- [commitizen](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/commitizen.md)
-
-- [Husky](https://github.com/osvaldokalvaitir/projects-settings/blob/master/nodejs/libs/husky.md)
+<p align="center">
+Developed with 💚 by <a href="https://www.linkedin.com/in/osvaldokalvaitir">Osvaldo Kalvaitir Filho</a>
+</p>
